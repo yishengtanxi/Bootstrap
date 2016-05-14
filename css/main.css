@@ -1,0 +1,33 @@
+body{
+	padding-top: 50px;
+	padding-bottom: 40px;
+	color:#5a5a5a;
+}
+#carousel-example-generic{
+	height:500px;
+	margin-bottom: 60px;
+}
+#carousel-example-generic .item{
+    height:500px;
+    background-color: #000;
+}
+#carousel-example-generic .item img{
+	width:100%;
+}
+#carousel-example-generic .carousel-caption{
+	padding-bottom: 80px;
+}
+#carousel-example-generic .carousel-caption p{
+	margin-bottom: 20px;
+    font-size: 20px;
+    line-height: 1.8;
+}
+.summary {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.summary .col-md-4 {
+    margin-bottom: 20px;
+    text-align: center;
+}
